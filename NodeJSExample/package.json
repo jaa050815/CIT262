@@ -1,0 +1,19 @@
+{
+  "name": "nodejsexample",
+  "version": "1.0.0",
+  "description": "This is my first NodeJS Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jaa050815/CIT262.git"
+  },
+  "author": "Alex Arch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaa050815/CIT262/issues"
+  },
+  "homepage": "https://github.com/jaa050815/CIT262#readme"
+}
